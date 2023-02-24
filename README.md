@@ -2,4 +2,4 @@
 Some explainations!
 
 ## Subtitle
-Adding some cool stuff.
+Adding some cool stuff!
