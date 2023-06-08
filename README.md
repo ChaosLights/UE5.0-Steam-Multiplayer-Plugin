@@ -1,6 +1,6 @@
 # Unreal Engine 5 Steam Multiplayer Plugin
 
-## WARING: 
+## WARNING: 
 ### The plugin is made for Unreal Engine 5.0, please check if you are using a different version.
 
 ## Introduction:
