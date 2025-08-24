@@ -6,7 +6,16 @@
 ## Introduction:
 This is a C++-based plugin designed to create an attractive multiplayer menu specifically for the Steam platform.
 
-It is developed based on the Udemy course by Stephen Ulibarri: https://www.udemy.com/course/unreal-engine-5-cpp-multiplayer-shooter/
+Screenshots:
+<img src="main_menu.png">
+<p align="center">Main Menu</p>
+<img src="Settings.png">
+<p align="center">Settings</p>
+<img src="server_list.png">
+<p align="center">Server List</p>
+<img src="success.png">
+<p align="center">Successful Connected</p>
+
 ## How To Use
 Prerequisites: Install Online Subsystem Steam && Online Subsystem plugins
 1. Put the plugin into the 'Plugin' directory of your own project
