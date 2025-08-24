@@ -1,10 +1,10 @@
-# Unreal Engine 5 Steam Multiplayer Plugin
+# Unreal Engine 5 Multiplayer Plugin
 
 ## WARNING: 
 ### The plugin is made for Unreal Engine 5.0, please check if you are using a different version.
 
 ## Introduction:
-This is a C++-based plugin designed to create an attractive multiplayer menu specifically for the Steam platform.
+This is a C++-based plugin designed to create an attractive multiplayer menu while allowing seamless coop via Steam/Epic Games Platform.
 
 Screenshots:
 <img src="main_menu.png">
@@ -26,7 +26,7 @@ Prerequisites: Install Online Subsystem Steam && Online Subsystem plugins
 ## Features:
 1. Button texts With Fade in/Fade out effect and color animation
 2. Configurable video settings menu(Require self-implementation)
-3. Standalone Steam Subsystem for session handling
+3. Standalone Steam/Epic Games Subsystem for session handling
 4. Intelligent auto match making
 5. Realtime game list display UI
 6. Cartoon mouse cursor
